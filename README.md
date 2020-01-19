@@ -1,4 +1,5 @@
-NCFTestAutomation - contains scripts for scenario 2 in the request
+NCFTestAutomation - contains scripts for scenario 2.
+
 Project contains two packages for pages and main script
 
 It also contains config file and xlsx file
